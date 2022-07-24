@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/francescocopelli/store-management-software?style=for-the-badge)](https://github.com/francescocopelli/store-management-software/blob/main/LICENSE)
+
 # Store Management Software
 Created by Francesco Copelli and Stefan Yoshovski on July 2021 during the course "Graphic Interfaces and Event Programming" at University of Calabria (Rende, Italy)
 
