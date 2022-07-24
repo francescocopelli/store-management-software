@@ -16,7 +16,7 @@ Created by Francesco Copelli and Stefan Yoshovski on July 2021 during the course
 <details>
 
 Login: ![Login](https://github.com/francescocopelli/store-management-software/blob/main/Snapshots/login_light.jpg)
-Register: ![Register](https://github.com/francescocopelli/store-management-software/blob/main/Snapshots/register_light.jpg?raw=true)
+Register: ![Register](https://github.com/francescocopelli/store-management-software/blob/main/Snapshots/register_light.jpg)
 - More Snapshots: https://github.com/francescocopelli/store-management-software/tree/main/Snapshots
 
 </details>
